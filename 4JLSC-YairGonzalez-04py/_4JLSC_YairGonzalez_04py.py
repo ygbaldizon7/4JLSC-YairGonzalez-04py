@@ -1,4 +1,6 @@
 import math
+##Ejemplo de creación de  Clase padre y clases hijas dentro de python 
+#usando de ejemplos objetos Figuras geometricas
 class FiguraGeometrica:
     def __init__(self):
         pass
